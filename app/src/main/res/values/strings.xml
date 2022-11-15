@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="hello">Olá mundo!</string>
+    <string name="rolar_o_dado">Rolar o dado</string>
+    <string name="actual_value">Clique para rolar!</string>
+</resources>
